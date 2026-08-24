@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h3>Estudiante de Ingeniería en Sistemas Computacionales en ESCOM (IPN) | Desarrollador Full-Stack jr</h3>
 </div>
 
-Me apasiona crear soluciones web de extremo a extremo, desde la arquitectura del backend y bases de datos hasta interfaces interactivas en el frontend. También tengo un fuerte interés en la cración de software como aplicaciones moviles, sistemas de redes basicas.
+Me apasiona crear soluciones web de extremo a extremo, desde la arquitectura del backend y bases de datos hasta interfaces interactivas en el frontend. También tengo un fuerte interés en la creación de software como aplicaciones moviles, sistemas de redes basicas.
 
 ## 🛠️ Tecnologías y Herramientas
 
